@@ -1,9 +1,3 @@
-//
-//  main.c
-//  StackWithLL
-//
-//  Created by inncrewin on 21/12/23.
-//
 
 #include <stdio.h>
 #include  <stdlib.h>
